@@ -4,6 +4,6 @@
 * The dataset used has been stored in the data folder.
 * TODO:
 * [X] Complete the EDA
-* [ ] Build the model
-* [ ] Test the model with an entirely new dataset
-* [ ] Deploy the model
+* [X] Build the model
+* [X] Test the model with an entirely new dataset
+* [X] Deploy the model
